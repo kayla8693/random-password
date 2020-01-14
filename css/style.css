@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+    border-style: solid;
+    padding: 30px;
+}
+
+#passwordBox {
+    border-style: dashed;
+    width: 500px;
+    margin: 0 auto;
+    height:200px;
+    text-align: center;
+    color: grey;
+}
+
+#generate {
+    margin-left: 50px;
+}
+
+#copy {
+    margin-left: 100px;
+}
